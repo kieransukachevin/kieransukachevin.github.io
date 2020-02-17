@@ -1,0 +1,19 @@
+/* Styling for the overall page */
+
+body {
+    background-color: rgb(36, 36, 36);
+}
+
+/* Styling for thumbnails */
+
+.thumbnailContainer {
+    border: 1px solid black;
+    display: inline-block;
+    position: absolute;
+}
+
+/* Styling for size */
+
+.thumbnail {
+    width: 10em;
+}
