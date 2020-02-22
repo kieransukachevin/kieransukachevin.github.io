@@ -1,3 +1,5 @@
+/* Copyright 2020 Kieran Sukachevin - All rights reserved. */
+
 // Specify the Thumbnail class and its properties
 function Thumbnail (container, x, y) {
     this.container = container;
