@@ -26,12 +26,15 @@ body {
 .title {
     padding-right: 40px;
     padding-top: 40px;
+    position: relative;
+    z-index: 1;
 }
 
 .title-text {
-    text-align: right;
     color: #fff;
     font-family: "Arial", Roboto, sans-serif;
     font-size: 40px;
     letter-spacing: 3px;
+    text-align: right;
+    text-shadow: 2px 2px 4px black;
 }
