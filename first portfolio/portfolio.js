@@ -15,7 +15,7 @@ Thumbnail.prototype.init = function () {
 
     // Create new html with an anchor that wraps the original thumbnail html
     let html = '<a target="_blank" href="';
-    html += img.src;
+    html += img.src.replace('.min', '');
     html += '" title="';
     html += img.alt;
     html += '">';
