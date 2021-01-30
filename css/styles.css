@@ -6105,7 +6105,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #474d52 !important;
+  background-color: #b3ccff !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9868,6 +9868,10 @@ a.text-dark:hover, a.text-dark:focus {
   color: #6c757d !important;
 }
 
+.text-black {
+  color: #1a0000 !important;
+}
+
 .text-black-50 {
   color: rgba(0, 0, 0, 0.5) !important;
 }
@@ -10007,7 +10011,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.4rem;
-  border-color: #ffffff;
+  border-color: #000033;
 }
 
 hr.light {
@@ -10169,8 +10173,8 @@ header.masthead h1 {
 
 .SOMECLASS {
   font-family: "Arial", Roboto, sans-serif;
-  font-size: 40px;
-  letter-spacing: 3px;
+  font-size: 80px;
+  letter-spacing: 4px;
 }
 
 .smaller-header-text {
